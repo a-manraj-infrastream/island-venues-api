@@ -1,0 +1,17 @@
+# Build output
+/island-venues-api
+/main
+/dist/
+*.exe
+*.test
+*.out
+coverage.*
+
+# Local environment
+.env
+.env.*
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
